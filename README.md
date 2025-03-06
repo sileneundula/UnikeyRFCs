@@ -18,3 +18,7 @@ A server is located that stores the keys with their information, derivations, an
 ## UniversalKey
 
 UniversalKey can be used to login to any site using digital signatures.
+
+## SLAB METHOD
+
+The SLAB Method allows only a certain portion of information to be displayed to the other party.
